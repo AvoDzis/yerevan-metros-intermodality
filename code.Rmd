@@ -1,0 +1,461 @@
+---
+title: "Building an Intermodal Metro and Bus System in Yerevan, Armenia"
+author: "Awadis Shikoyan"
+output:
+  word_document:
+    toc: yes
+  pdf_document:
+    toc: yes
+---
+
+\newpage
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(error=T, warning=F, message=F, echo=F)
+```
+
+```{=tex}
+\begin{center}
+\Huge{Abstract}
+\end{center}
+```
+```{=tex}
+\begin{center}
+This research paper examines the potential for implementing an intermodal transportation system between buses and metro in Yerevan, Armenia. Using a combination of quantitative and qualitative methods, this paper explores existing public transportation infrastructure, intermodal transportation trends, and the public’s preferences for transportation options. Through data collection, manual searching, and analysis, this research paper provides concrete recommendations on intermodal transportation system implementation for Yerevan. Recommendations include improving public transportation infrastructure of bus stops to be closer to metro stations, increasing public education regarding available transportation options, and creating incentives for intermodal transportation. The outcomes of this research will provide important insights into improving public transportation options for citizens of Yerevan.
+\end{center}
+```
+\newpage
+
+# Introduction and Looking at Studies in Armenia
+
+\indent  Integrating intermodal transportation between metros and buses in Yerevan, Armenia, can be challenging. Still, it can also be an essential step in creating an efficient and sustainable public transportation system. Intermodal transportation refers to using multiple modes of transportation such as metro, bus, bike, and car. Several considerations must be taken into account to achieve successful integration of intermodal transportation. Firstly, the public's needs must be understood to create a transportation system that meets their needs and desires. Additionally, the city's infrastructure and existing transportation systems must be evaluated in order to identify any potential problems. Finally, the economic and environmental impact of the integration should be assessed in order to ensure the sustainability of the project.
+
+In order to gain insight into the integration of intermodal transportation between metros and buses in Yerevan, it is important to review the research conducted by scholars. For example, a study conducted by M. Mamikonyan and A. Tadevosyan (2020) explored the potential of intermodal transportation in Yerevan and how it could be implemented in the city. The study highlighted several challenges that need to be addressed in order to successfully integrate intermodal transportation in Yerevan, such as the need to improve the existing transportation infrastructure and create new transportation networks. Additionally, the study highlighted the need to develop an efficient fare and payment system in order to ensure the sustainability of the project.
+
+Additionally, a study conducted by Diao Lin and Ruoxin Zhu (2019) highlighted how essential it is to comprehend the integration of buses and metro systems to further advance public transit. A rule-based approach was implemented in Shanghai to analyze the smart card data and extract metro trips and bus-and-metro trips. Three analyses were then conducted to gain insight into the characteristics of bus-and-metro integration. The first analysis found that 46% of users used buses to access metro stations twice or more during five weekdays. The second analysis revealed that the share of buses as a feeder mode was higher in morning peak hours than in afternoon peak hours, and metro stations located farther from the city center had a higher share. The third analysis utilized the Pearson correlation test to identify the factors associated with the ratio of bus-and-metro trips. The results showed that metro station density and access duration were positively correlated, and the number of bus lines around 100 m to 400 m of metro stations had a negative association, with the coefficient for 200 m being the largest. Furthermore, the temporal differences of the coefficients suggested that the importance of a factor could vary according to different times. This research provided a better understanding of the integration of buses and metro systems.
+
+Overall, integrating intermodal transportation between metros and buses in Yerevan can have numerous benefits, but it is important to consider the challenges that must be addressed in order to ensure the successful integration of the project. It is essential to understand the needs of the public, evaluate the city's existing infrastructure, and assess the economic and environmental impact of the project in order to ensure its sustainability of the project. Additionally, research conducted by scholars can provide valuable insight into the potential benefits and challenges of integrating intermodal transportation in Yerevan.
+
+# Literature Review
+
+Intermodal transportation is the use of multiple modes of transportation (e.g., metro and bus) to move people and goods. This type of transportation is becoming increasingly important, as it enables people to move more efficiently and quickly, reducing congestion and providing a more efficient way of traveling. The integration of intermodal transportation between metros and buses is a key factor in ensuring seamless and efficient travel.
+
+Various studies have been conducted to explore the integration of intermodal transportation between metros and buses. However, an interesting study by unhong Chu, Yige Duan, Xianling Yang, and Li Wang (2020) looks at how dockless bike sharing provides an efficient and affordable form of transportation for people living in urban cities. It solves the "last-mile" problem in public transit by reducing the cost of travel between homes and nearby subway stations, thereby making more distant apartments more attractive. This could have an effect on the relationship between housing prices and their proximity to the subway and potentially decrease the price premium for apartments closer to the station. Using data from 10 major Chinese cities, a difference-in-differences approach at the apartment level, and a two-step estimator at the city-month level, it was found that the introduction of bike-sharing decreased the housing price premium by 29% per km away from a subway station. This equates to a decrease of 1,893-2,127 CNY (282-317 USD) per household per year over 30 years. This effect is due to an increase in the listing price of, and demand for, apartments distant from, compared to those close to, subway stations.
+
+In another study conducted in Bangkok, Thailand, a study conducted by Tristan Cherry and Craig Townsend (2012) included Surveying over 300 passengers; it was discovered that the intermodal metro-bus transfers in Bangkok, Thailand, were not satisfactory. The passengers expressed high levels of discontent with certain conditions, implying that improvements could be made. Using importance-satisfaction analysis and ordinal regression models, it was determined that the greatest impact on the transfer experience would be the safety from crime and the distance between subway exits and bus stops.
+
+The integration of intermodal transportation between metros and buses is a complex process, requiring careful consideration of various factors such as the needs of travelers, the cost of the system, and the environmental impact. In order to ensure successful integration, it is important to consider the following factors: the availability of suitable infrastructure, the cost of the system, the impact on the environment, the reliability of the system, and the convenience of the system.
+
+In conclusion, the integration of intermodal transportation between metros and buses is an important factor in ensuring seamless and efficient travel. Various studies have shown that integrating the two modes of transportation can lead to improved efficiency, reduced congestion, improved travel experience, and improved economic performance. When considering the integration of intermodal transportation, it is important to consider the availability of suitable infrastructure, the cost of the system, the environmental impact, the reliability of the system, and the convenience of the system.
+
+# Main body
+
+## Problem Statement
+
+Yerevan is in need of an effective and efficient means of integrating intermodal transportation between metros and buses in order to reduce traffic congestion and improve access to public transportation. The current transportation infrastructure is inadequate and unreliable, resulting in poor service quality, long wait times. There is a need to explore and implement strategies to improve the integration of intermodal transportation between metros and buses in Yerevan, such as improving the accessibility of public transportation, increasing the frequency and reliability of service. Additionally, the effectiveness of these strategies should be evaluated in order to ensure that they are successful.
+
+Moreover, The proposed solution should consider the existing infrastructure of Yerevan, as well as the socio-economic conditions of the city, in order to effectively integrate metros and buses. Additionally, factors such as cost, safety, and environmental impacts should be taken into consideration when designing the intermodal transportation system. The proposed solution should seek to maximize the efficiency of the transportation system while making it accessible to all citizens of Yerevan.
+
+## Background and Justification
+
+Intermodal transportation is a key component of any successful urban transportation network. By combining the use of metro and bus services, cities can offer commuters a more convenient and efficient way to get around. To ensure the successful integration of these two modes of transportation, cities need to consider the following factors:
+
+```{=tex}
+\begin{itemize}
+\item Connectivity: Metros and buses should be conveniently connected to one another with reliable transfer points. Cities should also consider providing access to both modes of transportation from the same station or stop. This will allow commuters to seamlessly transfer between metros and buses without needing to go out of their way.
+
+\item Service Quality: Both metro and bus services should have high-quality, frequent, and reliable service in order to provide commuters with the best possible experience.
+
+\item Cost: The cost of using both services should be competitive with other forms of transportation. If the cost of using metros or buses is too high, commuters may be discouraged from using intermodal transportation.
+
+\item Planning: Cities should create a detailed plan that outlines the integration of metro and bus services. This plan should include the routes, frequencies, and fares of both services, as well as any special services or discounts that may be offered.
+\end{itemize}
+```
+By considering these factors, cities can ensure that they create an effective and efficient intermodal transportation system. This can help to reduce traffic congestion and provide commuters with a convenient and reliable way to get around.
+
+## Methodology
+
+This research will employ a qualitative research approach to investigate the integration of intermodal transportation between metros and buses. The research will include an analysis of the data presented from taxi orders with the GG taxi service. I have gone ahead and filtered the data from 2016 of all of the taxi orders to only represent the taxi orders that were done from the area near the metro. I will further analyze and explain the dataset later, but the purpose of this is to analyze the problem of "the last mile."
+
+The "last mile problem" from a public transportation perspective is a common challenge that can make it difficult for commuters to complete their journey from a public transit stop to their final destination. This is often due to the lack of direct or convenient connections between the public transit system and the commuter's desired destination. This poses a major obstacle to public transportation, as it can make it difficult for commuters to access their desired destinations and can lead them to turn to alternative means of transportation, such as personal vehicles.
+
+What I aim to find out with this dataset is that considering the Yerevan metro does not provide sufficient coverage for the city, where are most passengers heading to when they leave the metro/or when they are near the metro, as it could provide insight on where the metro or bus coverage should expand towards.
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(rstudioapi)
+library(RColorBrewer)
+library("ggmap")
+```
+
+```{r}
+load(file='gg.rda')
+```
+
+```{r}
+## cleanring the data
+
+drop <- c("partnerId", "userId", "fare", "created_at", "accepted_at", "arrived_at", "processing_at", "canceled_at")
+gg <- gg[,!(names(gg) %in% drop)]
+
+gg<- gg %>% 
+  drop_na(destLng, destLat)
+
+```
+
+```{r}
+gg_gargein <- gg %>% filter(originLng > 44.480806 & originLng < 44.482806 & originLat > 40.1496256 & originLat< 40.1516256)
+
+metro_station<-"Garegin Nzhdeh"
+gg_gargein<-cbind(gg_gargein, metro_station)
+```
+
+```{r}
+gg_shengavit <- gg %>% filter(originLat > 40.1448839 & originLat< 40.1468839 & originLng > 44.4778173 & originLng < 44.4798173)
+
+metro_station<-"Shengavit"
+gg_shengavit<-cbind(gg_shengavit, metro_station)
+
+```
+
+```{r}
+gg_gortsaranain <- gg %>% filter(originLat > 40.1395583 & originLat< 40.1415583 & originLng > 44.4970298 & originLng < 44.4990298)
+
+metro_station<-"Gortsaranayin"
+gg_gortsaranain<-cbind(gg_gortsaranain, metro_station)
+
+```
+
+```{r}
+gg_davit <- gg %>% filter(originLat > 40.154152 & originLat< 40.156152 & originLng > 44.507514 & originLng < 44.509514)
+
+metro_station<-"Sasuntsi Davit"
+gg_davit<-cbind(gg_davit, metro_station)
+
+```
+
+```{r}
+gg_zoravar <- gg %>% filter(originLat > 40.168907 & originLat< 40.170907 & originLng > 44.512448 & originLng < 44.514448)
+
+metro_station<-"Zoravar Andranik"
+gg_zoravar<-cbind(gg_zoravar, metro_station)
+
+```
+
+```{r}
+gg_republic <- gg %>% filter(originLat > 40.177586 & originLat< 40.179586 & originLng > 44.514457 & originLng < 44.516457)
+
+metro_station<-"Republic Square"
+gg_republic<-cbind(gg_republic, metro_station)
+
+```
+
+```{r}
+gg_yeritasardakan <- gg %>% filter(originLat > 40.186258 & originLat< 40.188258 & originLng > 44.520400 & originLng < 44.522400)
+
+metro_station<-"Yeritasardakan"
+gg_yeritasardakan<-cbind(gg_yeritasardakan, metro_station)
+
+```
+
+```{r}
+gg_baghramyan <- gg %>% filter(originLat > 40.190753 & originLat< 40.192753 & originLng > 44.505031 & originLng < 44.507031)
+
+metro_station<-"Marshal Baghramyan"
+gg_baghramyan<-cbind(gg_baghramyan, metro_station)
+
+```
+
+```{r}
+gg_barekamutyun <- gg %>% filter(originLat > 40.196427 & originLat< 40.198427 & originLng > 44.492433 & originLng < 44.494433)
+
+metro_station<-"Barekamutyun"
+gg_barekamutyun<-cbind(gg_barekamutyun, metro_station)
+
+```
+
+\newpage
+
+## Findings and Analysis
+
+```{r}
+gg_all<-rbind(gg_barekamutyun, gg_baghramyan, gg_yeritasardakan, gg_republic, gg_zoravar, gg_davit, gg_gortsaranain, gg_shengavit, gg_gargein)
+gg_all["date"]<- gg_all[c("completed_at","metro_station")] %>% 
+  mutate(completed_at = format(completed_at, format = "%m-%Y"))
+print(head(gg_all))
+```
+
+\centerline{\textbf{Table 1: The table shows all the taxi orders from areas close to the Yerevan Metro Station}}
+
+Getting a bit familiar with dataset we see that there are the following columns that we will use for further analysis.
+
+```{=tex}
+\begin{itemize}
+\item \textbf{originLng}: The longitude of where the taxi was ordered from
+\item \textbf{originLat}: The latitude of where the taxi was ordered from
+\item \textbf{destLng}: The longitude of where the taxi order was completed
+\item \textbf{destLat}: The latitude of where the taxi order was completed
+\item \textbf{metrostation}: This column indicates from which metro station the taxi was ordered from
+\item \textbf{completedat}: the datetime of when the order was completed
+
+\end{itemize}
+```
+It is important to mention that I took around 0.0005 margin for the origin longitude and latitude to encompass the surrounding area for the metro stations.
+
+```{r}
+ggplot()+
+  geom_bar(gg_all,mapping= aes(metro_station, fill=metro_station)) +
+  labs(title  = "Metro Station GG Taxi Orders in 2016")+
+  theme_bw()+ 
+  theme(axis.text.x = element_text(angle = 60, hjust = 1), legend.position = "None", axis.ticks.x=element_blank(), axis.ticks.y = element_blank(), axis.title.x  = element_blank(), axis.title.y = element_blank(), panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+    
+```
+
+\centerline{\textbf{Figure 1: Bar chart of the count of Taxi orders from each Metro station }}
+
+The graph above shows the count division of taxi orders from each station. It is noticable that these figures are quite high for some of the station Yeritasardakan having around 6000 taxi orders throughout the calendar year of 2016. Considering GG taxi is the second most user taxi ordering service in Yerevan, this figure in actuality is expectedly much higher, and we can identify that there may be problems of transportation that isn't intermodal with the location of the metro system. We will try to analyze that factor later on. What's also interesting is that the bars with the higher figures align more to the center of the city, indicating that this is a busy spot with a higher density of population, traffic. This factor can lead to people also to reside to a quick taxi ride home (or wherever they desire to go to) rather than waiting for a bus.
+
+Additionally, we can further look into whether these stations are placed in strategically convenient spots that provide quick access to citizens to a bus stop. Later on, I will analyze which locations residents are going to from each station, to see if the closest bus stops are providing coverage to reach to those locations.
+
+```{r}
+
+
+tbl_bagh <- gg_all %>%
+  group_by(date,metro_station) %>%
+  mutate(freq = n()) %>%
+  distinct(date, freq) %>%
+  mutate(date = format(date, format = "%B")) %>%
+  ungroup()
+
+
+ggplot(tbl_bagh, mapping=aes(x=date, y=freq, color=metro_station,group=metro_station)) + geom_point() + geom_line()+
+  theme_bw() +
+  theme(panel.border = element_blank(), panel.grid.major = element_blank(),
+panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),
+                   axis.text.x = element_text(angle = 90), legend.title = element_blank(), axis.ticks.x = element_blank(), axis.ticks.y=element_blank(), axis.title.x = element_blank()) + ylab("Number of Taxis Ordered")
+```
+
+\centerline{\textbf{Figure 2: Monthly count of Taxi orders from each Metro station}}
+
+From figure 1, it was obvious that we would see most of the higher observation on the stations that are close to the center. We don't have any outliers or any data that would show us there inconsistencies in data, thus we can go ahead and look at the metro stations that have the highest taxi order counts.
+
+```{r}
+register_google(key="***REMOVED-GOOGLE-API-KEY***")
+```
+
+```{r}
+map<-ggmap(get_googlemap(center = c(lon=44.5152, lat=40.1872),
+                         zoom = 13,
+                         maptype = 'roadmap',
+                         color='color',
+                         extent="device",
+                         style="element:labels|visibility:off|
+                         style=feature:administrative.land_parcel|
+                         visibility:off|style=feature:administrative.neighborhood
+                         |visibility:off")) 
+```
+
+```{r}
+## Republic Square
+republic<-map + stat_density2d(data=gg_republic,  aes(x=destLng, y=destLat, fill=..level.., alpha=..level..), geom="polygon") +   scale_fill_gradientn(colours=rev(brewer.pal(7, "Spectral"))) +
+  theme(panel.border = element_blank(), panel.grid.major = element_blank(), axis.title.y = element_blank(),
+panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), axis.text.y = element_blank(),
+                   axis.text.x = element_blank(), axis.ticks.x = element_blank(), axis.line.y = element_blank(), axis.line.x = element_blank(), axis.ticks.y=element_blank(), axis.title.x = element_blank()) + geom_point(aes(x=44.515457, y=40.178586), color="#3a63e8", size=2.5, shape="square", alpha=0.8) + annotate("text", label="M", x=44.515457,y=40.178586, size=2,color="white") + ggtitle("Taxi Order Destinations from Republic Square") + scale_alpha(guide = 'none') 
+
+print(republic)
+```
+
+\centerline{\textbf{Figure 3: Heatmap of taxi orders from Republic Square Statio}}
+
+Starting off with one of the more busiest stations is the Republic Square. The first thing that this figure shows us is that although republic square is right at the exact center of the city, the data shows many people still use the taxi to travel on short-distance commutes in around the city, with around 500 taxi orders from Republic square directly destined to go to the center. This can presenet to us that there may be an issue of how walkable the city of Yerevan, or how much of it allows for residents to use short-distance transportation system.
+
+Going to the busiest destination outlines from the Republic Square reaches to the region of Arabkir. Many people prefer to use taxi's to reach their directly so it can be looked into whether the commute when after leaving the metro and getting to a bus stop to get to Arabkir is a long process that requires changing many transportation systems or not. Some of the other popular destinations are Davtashen, Ajapniak, and Shegavit.
+
+```{r}
+## Yeritasardakan
+yeritasardakan<-map + stat_density2d(data=gg_yeritasardakan,  aes(x=destLng, y=destLat, fill=..level.., alpha=..level..), geom="polygon") +   scale_fill_gradientn(colours=rev(brewer.pal(7, "Spectral"))) +
+  theme(panel.border = element_blank(), panel.grid.major = element_blank(), axis.title.y = element_blank(),
+panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), axis.text.y = element_blank(),
+                   axis.text.x = element_blank(), axis.ticks.x = element_blank(), axis.line.y = element_blank(), axis.line.x = element_blank(), axis.ticks.y=element_blank(), axis.title.x = element_blank()) + geom_point(aes(x=44.521400, y=40.187258), color="#3a63e8", size=2.5, shape="square", alpha=0.8) + annotate("text", label="M", x=44.521400,y=40.187258, size=2,color="white") + ggtitle("Taxi Order Destinations from Yeritasardakan") + scale_alpha(guide = 'none') 
+
+print(yeritasardakan)
+```
+
+\centerline{\textbf{Figure 4: Heatmap of taxi orders from Republic Yeritasardakan}}
+
+We saw from Figure 1 and 2 that Yeritaradakan had the highest number of taxi orders in 2017. Initially, we can see that the location of Arabkir is the busiest destination for this case again, which leaves more room in order to explore what exact transportation commutes should be improved in order to decrease the count of taxi rides ordered
+
+Additionally, the more that figure 4 is analyzed the more popular destination locations overlap with each other. There is clearly an existing need to find or look at alternatives that could provide us short term transportation options.
+
+```{r}
+## Barekamutyun
+barekamutyun<-map + stat_density2d(data=gg_barekamutyun,  aes(x=destLng, y=destLat, fill=..level.., alpha=..level..), geom="polygon") +   scale_fill_gradientn(colours=rev(brewer.pal(7, "Spectral"))) +
+  theme(panel.border = element_blank(), panel.grid.major = element_blank(), axis.title.y = element_blank(),
+panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), axis.text.y = element_blank(),
+                   axis.text.x = element_blank(), axis.ticks.x = element_blank(), axis.line.y = element_blank(), axis.line.x = element_blank(), axis.ticks.y=element_blank(), axis.title.x = element_blank()) + geom_point(aes(x=44.493433, y=40.197427), color="#3a63e8", size=2.5, shape="square", alpha=0.8) + annotate("text", label="M", x=44.493433,y=40.197427, size=2,color="white") + ggtitle("Taxi Order Destinations from Barekamutyun") + scale_alpha(guide = 'none') 
+
+print(barekamutyun)
+```
+
+\centerline{\textbf{Figure 5: Heatmap of taxi orders from Republic Barekamutyun}}
+
+The first thing that this figure shows us is that most of the concentration of taxi orders is centered at the center of the city, the data also still shows many people still use the taxi to travel on short-distance commutes in around the city. Something that needs to be looked at for these stations if the metro stations actually have easily accessible bus stops installed with the them when passengers leave the metro.
+
+Additionaly, we can say that the busiest destination has direct access to the metro, but again looking at it the center of the highest count of taxi destination finishes would still require the resident to walk, or use some form of transportation. We can see a pattern here that most of the other busy regions include Arabkir, Davtashen, Masiv area and etc.
+
+\newpage
+
+From all these figures the following factors need to be studied.
+
+```{=tex}
+\begin{enumerate}
+\item Whether there are close bus stops placed near the metro that provide coverage to reach major parts of the city
+\item How long it takes to get to the bus stop
+\item How long it will take for the resident to ride the bus and reach their destination
+\end{enumerate}
+```
+The places that we would need to include in this methodology study are the regions outlined by the figures 3, 4, 5, regions that have a high population density, and regions that are overall a popular destination to go to (because of work, studies, shopping, etc)
+
+```{=tex}
+\begin{center}
+\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
+ \hline
+ \multicolumn{4}{|c|}{Republic Square Metro Station} \\
+ \hline
+ Region& Commute to the bus stop (in mins)&Available buses to get to the region&Commute to the region with a bus (in mins)\\
+ \hline
+ Arabkir   & 7-10    &50, 10, 14, 46, (minibuses: 19, 28)&   15-20\\
+ Kentron (Mastots Tumanyan)&   8-10mins  & 16, 29, 201, 44 (13, 24, 33, 38)   &10\\
+ Davtashen &5-7 & 74, 45 &  20-25\\
+ Ajapniak  & 15-18  & (minibus 70, 26) and 12, 39, 67 (minibus 114, 22) &25*\\
+ Nor Nork& 7-12  & 22, 42, 53, 63   &35-40\\
+ Erebuni& 9-12  & 41, 46, 97 (minibus 50)&19-22\\
+\multicolumn{4}{|c|}{* - you would need to change to two different buses} \\
+ \hline
+\end{tabular}
+\end{center}
+```
+\centerline{\textbf{Table 2: Taking a bus to different regions from Republic Square Metro}}
+
+```{=tex}
+\begin{center}
+\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
+ \hline
+ \multicolumn{4}{|c|}{Republic Yeritasardakan Station} \\
+ \hline
+ Region& Commute to the bus stop (in mins)&Available buses to get to the region&Commute to the region with a bus (in mins)\\
+ \hline
+ Arabkir   & 10    &13, 47, 58, 97 (minibuses: 24) &   15-17\\
+ Kentron (Mastots Tumanyan)&   6-9  & 5, 26, 35, 54 (33, 77)   &5-7\\
+ Davtashen &6-12 & 74, 45 &  15-20\\
+ Ajapniak  & 10  & (minibus 70) and 12, 39, 67 (minibus 114, 22) &25*\\
+ Nor Nork& 8  & 8, 22, 26, 35, 42   & 25\\
+ Erebuni& 5-6  & 41, 46, 74 (minibus 50)&25-30\\
+\multicolumn{4}{|c|}{* - you would need to change to two different buses} \\
+ \hline
+\end{tabular}
+\end{center}
+```
+\centerline{\textbf{Table 3: Taking a bus to different regions from Yeritasardakan}}
+
+```{=tex}
+\begin{center}
+\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
+ \hline
+ \multicolumn{4}{|c|}{Barekamutyun Metro Station} \\
+ \hline
+ Region& Commute to the bus stop (in mins)&Available buses to get to the region&Commute to the region with a bus (in mins)\\
+ \hline
+ Arabkir   & 6-10    &11, 13, 28, 3, 31, 58 (minibuses: 114, 12, 24)&   10-12\\
+ Kentron (Mastots Tumanyan)&   3-5  & 13, 47, 58 (minibus 4, 24)   &13\\
+ Davtashen &4 & 74, 45 &  12\\
+ 3rd Mas    &5-7 & 22, 42, 53, 63&  35\\
+ Ajapniak  & 16  &  3, 30, 35 (minibus 114, 34) &13\\
+ Nor Nork& 7-11  & 3, 8, 35   &40\\
+ Erebuni& 5-12  & 41, 46, 74, 18 (minibus 68, 38)&25\\
+\multicolumn{4}{|c|}{* - you would need to change to two different buses} \\
+ \hline
+\end{tabular}
+\end{center}
+```
+\centerline{\textbf{Table 4: Taking a bus to different regions from Barekamutyun}}
+
+```{=tex}
+\begin{center}
+\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
+ \hline
+ \multicolumn{4}{|c|}{Marshal Baghramyan Metro Station} \\
+ \hline
+ Region& Commute to the bus stop (in mins)&Available buses to get to the region&Commute to the region with a bus (in mins)\\
+ \hline
+ Arabkir   & 4-5    &13, 47, 11, 58 (minibuses: 4, 39)&   15\\
+ Davtashen &4 & 45, 74 &  17\\
+ 3rd Mas    &5-7 & 22, 42, 53, 63&  35\\
+ Ajapniak  & 7  & 74, 45 and (minibus 35, 57) &30*\\
+ Nor Nork& 6  & 8, 35   &30\\
+ Erebuni& 9-12  & 41, 46, 97 (minibus 50)&19-22\\
+\multicolumn{4}{|c|}{* - you would need to change to two different buses} \\
+ \hline
+\end{tabular}
+\end{center}
+```
+\centerline{\textbf{Table 5: Taking a bus to different regions from Marshal Baghramyan Metro}}
+
+From these tables the following information can be extracted from the data. None of the metro system documented for this case provide a fast and immediate access to a bus type transportation to reach the popular/hotspots of the city that have a high population density or common places that residents go there to work. Additonally, from field observations that were conducted in order to see the area, there are no guides to bus stops, no documentation on what bus to take to go to the destination that you desire.
+
+Moreover, it is noticed that the metro stations do not have quick direct access to a bus stop for people to use except for a few instances where closeby bus stops offer commutes to the places that you desire.
+
+## Recommendations
+
+From the results and analysis section by analyzing the figures 3, 4, 5 it can be interpreted that there is a short-term transporation problem for residents when they leave the metro. The heatmaps show that regardless of the fact that their destination is relatively close people start prefering to order taxi's instead of walking as the location they are in may not allow them to walk comfortably. A solution to this problem can be the following.
+
+Dockless bike and scooter sharing can be a great solution to help solve transportation problems. These services can provide a more affordable and convenient way to get around a city or town. They can be especially beneficial for those who have limited access to other forms of public transportation. Dockless bike and scooter sharing can also help reduce congestion on city streets by providing an alternative to driving.
+
+The dockless system can also help reduce air pollution. Because these services don't require a fixed infrastructure, they can be located closer to people's homes and businesses, which means less emissions from cars and other vehicles. Additionally, these services often employ electric bikes and scooters, which produce no emissions at all.
+
+Dockless bike and scooter sharing can also be a great way to promote physical activity. Instead of driving or taking public transportation, people can choose to ride a bike or scooter to their destination. This can help improve their overall health and fitness.
+
+Finally, dockless bike and scooter sharing can offer greater access to transportation for those who cannot afford other forms of transportation. By providing lower-cost, more convenient options, these services can help reduce financial barriers to getting around.
+
+Overall, dockless bike and scooter sharing can be an effective way to reduce congestion and air pollution, promote physical activity, and offer more accessible transportation options. They can be a great solution to help solve transportation problems.
+
+The most notable areas that need more coverage are the suburbs of Yerevan, such as the Nor Nork, Erebuni, Arabkir, and Davtashen neighborhoods. These areas are densely populated and are in need of improved public transportation options. Currently, the bus stops and metro stations in these areas are few and far between, making it difficult for residents to get around the city.
+
+The center of Yerevan is also in need of more bus stops and metro stations. The city center is a hub of activity and many people commute to and from this area on a daily basis. Unfortunately, there are not enough bus stops or metro stations to accommodate the large number of people commuting in and out of the city center. This can lead to long waits and overcrowding on public transportation vehicles.
+
+Additonally, the outskirts of Yerevan could benefit from more bus stops and metro stations. These areas are often neglected when it comes to public transportation and there is a need for more stops and stations to make it easier for people to travel to and from these areas.
+
+Overall, Yerevan needs more bus stops and metro stations to make it easier for people to move around the city. The suburbs, city center, and outskirts all need improved public transportation options to make commuting more efficient and convenient.
+
+## What can be implemented
+
+Adding closer bus stops to metro stations in Yerevan, Armenia can help build a more intermodal transportation system that provides greater convenience, connectivity, and accessibility to people using public transportation. By increasing the number of bus stops near metro stations, it would be easier for people to transfer from one mode of transportation to another. This could help reduce the time it takes for commuters to get to their destinations and make the overall public transportation system more efficient.
+
+In addition to making it easier for people to transfer between different modes of transportation, having more bus stops near metro stations could also help reduce traffic congestion in Yerevan by providing more options for commuters to get to where they need to go. With more public transportation options available, people will be more likely to use public transportation instead of driving, thus reducing the number of cars on the road.
+
+One strategy for adding closer bus stops to metro stations in Yerevan, Armenia to build an intermodal transportation system is to create a unified fare system. This would allow passengers to seamlessly switch between buses and metro without having to purchase separate tickets. This would also encourage riders to use the public transportation system more often, since they would no longer need to worry about purchasing multiple tickets.
+
+Moreover, it would be beneficial to add more bus stops closer to metro stations. This could be done by implementing a shuttle system, which would provide a direct connection between the metro and nearby bus stops. The shuttles could be free or have a small fare, making it more convenient and affordable for people to use the public transportation system.
+
+Another idea that needs more development is to Properly document metro and bus lines connections can help commuters save time, money, energy, and motivate them to take buses. By having access to accurate information about routes, departure times, and fare prices, commuters can plan out their journeys more efficiently and effectively. Knowing which lines to take, when to leave, and how much to pay for a ticket can help commuters avoid costly mistakes and delays. Additionally, having access to updated information about service disruptions can help commuters make alternate plans if their current routes are affected.
+
+Having properly documented metro and bus lines can also help make the transit system more accessible and user-friendly. Not all commuters are familiar with the inner workings of the transit system, and having clear, concise information about routes and schedules can help them make informed decisions about their travel plans. Providing information in multiple languages can make metro and bus lines more accessible to those who may not be able to read English.
+
+\newpage
+
+# Bibliography
+
+Cherry, T., & Townsend, C. (2012). Assessment of Potential Improvements to Metro--Bus Transfers in Bangkok, Thailand. Transportation Research Record, 2276(1), 116--122. <https://doi.org/10.3141/2276-14>
+
+Chu J., Duan Y., Yang X., Wang L., (17 Jun 2020). The Last Mile Matters: Impact of Dockless Bike Sharing on Subway Housing Price Premium, <https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3550>
+
+Davtyan V., (2016). The Major Challenge for Armenia's Transport Security: Obstacles and Prospects of Integration into the International Transport Corridors, <http://arjps.org/articles/eng/01_2016/Davtyan.pdf>
+
+Lin D., Zhu R., (20, Jul 2019). Understanding the integration of buses and metro systems using smart card data. <https://www.proc-int-cartogr-assoc.net/2/74/2019/ica-proc-2-74-2019.pdf>
+
+Mejia-Dorantes, L., Paez, A., & Vassallo, J. M. (2011, November 12). Transportation infrastructure impacts on firm location: The effect of a new metro line in the suburbs of Madrid. Journal of Transport Geography. Retrieved November 8, 2022, from <https://www.sciencedirect.com/science/article/abs/pii/S0966692311001487>
+
+Sonnenschein, T., Scheider, S., & Zheng, S. (2021, December 10). The rebirth of urban subcenters: How subway expansion impacts the spatial structure and mix of amenities in European cities. Sage Jornals. Retrieved November 7, 2022, from <https://journals.sagepub.com/doi/10.1177/23998083211056955>
+
+Shih, M.-C., Dick, C. T., Sogin, S., & Barkan, C. (2014, January 1). Comparison of Capacity Expansion Strategies for Single-Track Railway Lines with Sparse Sidings. Sage Journals. Retrieved November 5, 2022, from <https://journals.sagepub.com/doi/abs/10.3141/2448-07>
