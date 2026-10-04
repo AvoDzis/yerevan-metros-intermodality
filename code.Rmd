@@ -241,7 +241,7 @@ panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),
 From figure 1, it was obvious that we would see most of the higher observation on the stations that are close to the center. We don't have any outliers or any data that would show us there inconsistencies in data, thus we can go ahead and look at the metro stations that have the highest taxi order counts.
 
 ```{r}
-register_google(key="***REMOVED-GOOGLE-API-KEY***")
+register_google(key = Sys.getenv("GOOGLE_MAPS_API_KEY"))
 ```
 
 ```{r}

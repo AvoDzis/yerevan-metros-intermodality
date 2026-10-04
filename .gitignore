@@ -1,0 +1,24 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Local secrets (copy .Renviron.example to .Renviron)
+.Renviron
+.env
+
+# Input data is not published (see README)
+*.rda
+*.rds
+*.csv
+
+# knitr output
+*_cache/
+*_files/
+code.docx
+code.tex
+code.log
+
+# OS
+.DS_Store
